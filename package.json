@@ -1,0 +1,19 @@
+{
+  "name": "personal-porfolio",
+  "version": "1.0.0",
+  "description": "portfolio app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nisha rani",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "nodemailer": "^6.9.5",
+    "nodemailer-mailjet-transport": "^1.0.4"
+  }
+}

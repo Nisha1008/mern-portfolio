@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.409997e8.css",
+    "main.js": "/static/js/main.17525e1b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/nishaResume.pdf": "/static/media/nishaResume.b5de55d061de3dc45306.pdf",
+    "index.html": "/index.html",
+    "main.409997e8.css.map": "/static/css/main.409997e8.css.map",
+    "main.17525e1b.js.map": "/static/js/main.17525e1b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409997e8.css",
+    "static/js/main.17525e1b.js"
+  ]
+}
